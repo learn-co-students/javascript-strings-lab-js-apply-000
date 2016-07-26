@@ -1,4 +1,4 @@
-# JavaScript Strings Lab
+# JavaScript Strings Lab hi
 
 Welcome to another JavaScript lab!
 
