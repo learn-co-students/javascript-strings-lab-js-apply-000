@@ -63,7 +63,7 @@ Alternatively, you can press `ctrl + L` or `command + K`. As long as you don't r
 When we wrap strings in back ticks, we can use placeholders (`${}`) and insert variables or evaluated JavaScript directly:
 
 ``` javascript
-var specialGuest = "Neil deGrasse Tyson"
+var specialGuest = "Neil deGrasse Tyson";
 
 `Hello, ${specialGuest}! High ${3 + 2}!` // "Hello, Neil deGrasse Tyson! High 5!"
 ```
