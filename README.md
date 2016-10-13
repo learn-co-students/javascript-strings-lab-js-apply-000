@@ -83,7 +83,7 @@ All three tests have failed! This is okay, and it's expected — you haven't wri
 In `index.js`, you'll see five lines of code:
 
 ``` javascript
-var greeting = "!";
+var greeting = "";
 
 var specialGuest = "Neil deGrasse Tyson"
 
