@@ -2,7 +2,7 @@
 
 ![lab](http://i.giphy.com/NETCsDYm0fL44.gif)
 
-## Overview 
+## Overview
 
 In this lab, we're going to work with strings. Strings in JavaScript are wrapped in single or double quotes, or in back ticks.
 
@@ -91,7 +91,7 @@ var greetSpecialGuest = "" + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `${topic}`;
+var conversation = `${topic}.`;
 ```
 
 Each line has a test associated with it. When the tests fail, they show us what the _expected_ value is — your job is to make that expectation a reality by modifying the code provided.
