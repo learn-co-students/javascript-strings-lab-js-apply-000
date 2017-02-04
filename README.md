@@ -83,13 +83,13 @@ All three tests have failed! This is okay, and it's expected — you haven't wri
 In `index.js`, you'll see five lines of code:
 
 ``` javascript
-var greeting = "";
+var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "" + specialGuest + "!";
+var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
-var topic = "space";
+var topic = "Let\'s talk about space.";
 
 var conversation = `${topic}`;
 ```
