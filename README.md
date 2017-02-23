@@ -113,9 +113,10 @@ we're handling strings.
 Continuing on with the test output, we can now make better sense of the next few lines:
 
 ``` bash
-AssertionError: '' == 'Hello, everybody!'
+AssertionError: '!' == 'Hello, everybody!'
 + expected - actual
 
+- !
 +Hello, everybody!
 ```
 
