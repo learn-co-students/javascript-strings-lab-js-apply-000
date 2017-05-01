@@ -43,7 +43,7 @@ or
 "Hello, everybody!"
 ```
 
-They're the same in this case.
+Single or double quotation marks can contain a string variable..
 
 What if we want to say hi to a special guest, like Neil deGrasse Tyson? When we wrap strings in single or double quotes, we can join them together using the `+` operator:
 
@@ -52,7 +52,7 @@ var specialGuest = "Neil deGrasse Tyson"
 "Hello, " + specialGuest + "!" // "Hello, Neil deGrasse Tyson!"
 ```
 
-This is called _concatenation_. Notice that `specialGuest` is _also_ a string!
+This is called _concatenation_. Notice that the value of the `specialGuest` variable is _also_ a string!
 
 **TOP TIP**: Your console might be getting a little full at this point. If at any point you'd like to clear it out and start fresh, you can either click the button in the top left corner of the console — in Chrome, it looks like this:
 
