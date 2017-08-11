@@ -8,7 +8,7 @@ In this lab, we're going to work with strings. Strings in JavaScript are wrapped
 
 ## Objectives
 
-1. Manipulate strings by hand in JavaScript
+1. Manipulate strings in JavaScript
 2. Practice interpolating with template literals
 
 ## Introduction
