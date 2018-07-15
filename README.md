@@ -153,3 +153,16 @@ When your tests are passing, submit your answer by typing in `learn submit` in t
 Good luck!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-strings-lab'>JavaScript Strings Lab</a> on Learn.co and start learning to code for free.</p>
+learn 
+var greeting = "Hello, everybody!";
+
+var specialGuest = "Neil deGrasse Tyson"
+
+var greetSpecialGuest = "Hello, " + specialGuest + "!";
+
+var topic = "space";
+
+var conversation = `Let's talk about ${topic}`;
+
+learn submit
+
