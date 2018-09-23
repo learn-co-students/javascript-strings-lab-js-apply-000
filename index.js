@@ -2,7 +2,7 @@ var greeting = "Hello, everybody!"; // declares a "greeting" var
 
 var specialGuest = "Neil deGrasse Tyson" // declares a specialGuest var
 
-var greetSpecialGuest = "Hello, " + specialGuest + "!"; // Concatenates "Hello, Neil deGrasse Tyson"
+var greetSpecialGuest = "Hello, " + specialGuest + "!"; // Concatenates "Hello, Neil deGrasse Tyson!"
 
 var topic = "space";  
 
