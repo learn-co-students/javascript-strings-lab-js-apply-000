@@ -1,9 +1,9 @@
-var greeting = "";
+var greeting = "Hello, everybody!"; // provided
 
-var specialGuest = "Neil deGrasse Tyson"
+var specialGuest = "Neil deGrasse Tyson"; // no change needed
 
-var greetSpecialGuest = "" + specialGuest + "!";
+var greetSpecialGuest = "Hello, " + specialGuest + "!"; //this matches test request for `Hello, ${specialGuest}!`
 
-var topic = "space";
+var topic = "space"; //no change needed
 
-var conversation = `${topic}`;
+var conversation = `Let's talk about ${topic}.`; //fixed to match test
