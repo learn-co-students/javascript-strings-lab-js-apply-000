@@ -1,9 +1,20 @@
-var greeting = "";
+ var greeting = "Hello, everybody!";
+function greeting(){
+  
+  return greeting
+  }
+var specialGuest = "Neil deGrasse Tyson";
+var greetSpecialGuest = "Hello, " + specialGuest + "!";
+function greetSpecialGuest(){
 
-var specialGuest = "Neil deGrasse Tyson"
-
-var greetSpecialGuest = "" + specialGuest + "!";
+return greetSpecialGuest
+  
+}
 
 var topic = "space";
 
-var conversation = `${topic}`;
+var conversation = `Let's talk about ${topic}.`;
+
+function conversation(){
+  return conversation
+}
