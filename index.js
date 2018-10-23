@@ -1,9 +1,9 @@
-var greeting = "";
+let greeting = "";
 
-var specialGuest = "Neil deGrasse Tyson"
+let specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "" + specialGuest + "!";
+let greetSpecialGuest = "" + specialGuest + "!";
 
-var topic = "space";
+let topic = "space";
 
-var conversation = `${topic}`;
+let conversation = `${topic}`;
