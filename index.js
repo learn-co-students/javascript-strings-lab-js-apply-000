@@ -1,9 +1,11 @@
-var greeting = "";
+var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "" + specialGuest + "!";
+// concatenation (no backticks required)
+var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `${topic}`;
+// string interpolation (backticks necessary, speechmarks omitted)
+var conversation = `Let's talk about ${topic}.`;
