@@ -10,4 +10,6 @@ tmp
 *.log
 *.swp
 
+prepros-6.config
+
 .results.json
