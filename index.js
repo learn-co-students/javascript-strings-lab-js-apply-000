@@ -1,9 +1,9 @@
-var greeting = "";
+var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
-
-var greetSpecialGuest = "" + specialGuest + "!";
+// Added space after "," to make sure there would be enough space between Hello and specialGuest //
+var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = "space";
-
-var conversation = `${topic}`;
+// interpolating with a placeholder //
+var conversation = `Let's talk about ${topic}.`;
