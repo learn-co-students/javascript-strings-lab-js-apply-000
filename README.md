@@ -83,14 +83,10 @@ All three tests have failed! This is okay, and it's expected — you haven't wri
 In `index.js`, you'll see five lines of code:
 
 ```js
-var greeting = "";
-
-var specialGuest = "Neil deGrasse Tyson"
-
+var greeting = "Hello,everybody";
+var specialGuest = "Neil deGrasse Tyson";
 var greetSpecialGuest = "" + specialGuest + "!";
-
-var topic = "space";
-
+var topic = "let's talk about space";
 var conversation = `${topic}`;
 ```
 
@@ -153,3 +149,13 @@ When your tests are passing, submit your answer by typing in `learn submit` in t
 Good luck!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-strings-lab'>JavaScript Strings Lab</a> on Learn.co and start learning to code for free.</p>
+var greeting="Hello,everybody!";
+console.log(greeting);
+var specialGuest="Neil deGrasse Tyson";
+var greetSpecialGuest=`Hello,${specialGuest}!`;
+var topic="Let's talk about space";
+var conversation=`${topic}`;
+
+
+
+
