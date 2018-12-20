@@ -1,17 +1,4 @@
-# JavaScript Strings Lab
-
-![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
-
-## Overview 
-
-In this lab, we're going to work with strings. Strings in JavaScript are wrapped in single or double quotes, or in back ticks.
-
-## Objectives
-
-1. Manipulate strings in JavaScript
-2. Practice interpolating with template literals
-
-## Introduction
+# JavaScript 
 
 Imagine we're planning a birthday party for Bill Nye. There are going to be a lot of people there, so we're going to use JavaScript to help us keep everything straight.
 
@@ -19,8 +6,7 @@ First, we need to practice greeting everyone. (I don't know about you, but I som
 
 One might think that we could just type
 
-```js
-Hello, everybody!
+```
 ```
 
 in our browser's console and be done with it. Give it a try. (If you're on a Mac, that would be `Command` + `Option` + `J` together.)
