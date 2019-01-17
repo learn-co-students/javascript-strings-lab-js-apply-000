@@ -1,9 +1,9 @@
 var greeting = "Hi everybody";
 
-var specialGuest = "Abdoulaye Diallo"
+var guest = " My name is Abdoulaye Diallo"
 
-var greetSpecialGuest = "" + student, who want to learn how to code. I am very exicited + "!";
+var greetSpecialGuest = "how are you doing taday?";
 
-var topic = "Javascript";
+var topic = " Javascript";
 
-var conversation = `${coding}`;
+var conversation  = "coding";
