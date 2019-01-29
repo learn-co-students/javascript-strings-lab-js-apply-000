@@ -100,6 +100,7 @@ When you first run `learn`, you should see something like this:
 
 ![All tests failing.](https://user-images.githubusercontent.com/17556281/27979675-b6575498-6345-11e7-8c9d-052c2d4d3e96.png)
 
+
 Let's walk through that first error together. First, we see the test title:
 
 ```bash
