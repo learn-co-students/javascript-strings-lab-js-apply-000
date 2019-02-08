@@ -1,10 +1,13 @@
-# JavaScript Strings Lab
+var greeting = "";
 
-![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
+var specialGuest = "Neil deGrasse Tyson"
 
-## Overview 
+var greetSpecialGuest = "" + specialGuest + "!";
 
-In this lab, we're going to work with strings. Strings in JavaScript are wrapped in single or double quotes, or in back ticks.
+var topic = "space";
+
+var conversation = `${topic}`;
+
 
 ## Objectives
 
