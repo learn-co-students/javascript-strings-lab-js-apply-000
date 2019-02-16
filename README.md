@@ -60,7 +60,7 @@ This is called _concatenation_. Notice that the value of the `specialGuest` vari
 
 Alternatively, you can press `ctrl + L` or `command + K`. As long as you don't refresh the page, anything you've declared will stick around for you to reference — you'll just get a nice blank slate on which to code.
 
-When we wrap strings in back ticks, we can use placeholders (`${}`) and insert variables or evaluated JavaScript directly:
+When we wrap stringsin back ticks, we can use placeholders (`${}`) and insert variables or evaluated JavaScript directly:
 
 ```js
 var specialGuest = "Neil deGrasse Tyson";
