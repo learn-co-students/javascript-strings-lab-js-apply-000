@@ -12,8 +12,8 @@ it('interpolates a string in `conversation`', function() {
   expect(conversation).toEqual(`Let's talk about ${topic}.`)
 })
 
-var greeting = "Hello, Everybody!"
+var greeting = "Hello, everybody!"
 var specialGuest = "Neil DeGrasse Tyson"
-var greetSpecialGuest = "greeting" + specialGuest + "!";
+var greetSpecialGuest = "Hello," + specialGuest + "!";
 var topic = "space"
-var conversation = '${topic}';
+var conversation = "let's talk about" '${topic}';
