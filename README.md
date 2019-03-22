@@ -1,3 +1,6 @@
+var greeting = "";
+var specialGuest ="Neil deGrasse Tyson"
+
 # JavaScript Strings Lab
 
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
