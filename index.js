@@ -2,7 +2,7 @@ var greeting = "Hello, everybody!";
 //Defines the global variable 'greeting'
 //Assigns 'greeting' the string 'Hello, Everybody!'
 
-var specialGuest = "Neil deGrasse Tyson"
+var specialGuest = "Neil deGrasse Tyson";
 //Defines the global variable 'specialGuest'
 //Assigns 'specialGuest' the string 'Neil deGrasse Tyson'
 
