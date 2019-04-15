@@ -35,3 +35,11 @@ educational content. Everything from fixing typos, to correcting
 out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
+
+" Hello, everybody !"
+var specialGuest ='Neil deGrasse Tyson'
+"Hello, " = specialGuest + "!"
+
+
+
+
