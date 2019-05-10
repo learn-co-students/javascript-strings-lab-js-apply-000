@@ -10,6 +10,7 @@ In this lab, we're going to work with strings. Strings in JavaScript are wrapped
 
 1. Manipulate strings in JavaScript
 2. Practice interpolating with template literals
+$ sudo apt-get update && sudo apt-get install yarn
 
 ## Introduction
 
