@@ -126,7 +126,7 @@ What could `AssertionError` mean? Well, it probably means that our test _asserte
 
 What is that thing? The test expected the empty string, `''`, to be equal to the string `'Hello, everybody!'` — but, of course, these strings are not equal.
 
-`+ expected - actual` is a key for reading the statements below it. `+ expected` tells us that the expected output shows up in that yellowish green; `- actual` tells us what actually happened.
+`+ expected - actual` is a key for reading the statements below it. `+ xpected` tells us that the expected output shows up in that yellowish green; `- actual` tells us what actually happened.
 
 But reading on, we only see `+Hello, everybody!` — what's going on? Why isn't there any `- actual` output? Well, there _was_ no actual output — it's just an empty string! That must be the problem!
 
