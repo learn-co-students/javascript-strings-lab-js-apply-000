@@ -1,9 +1,9 @@
-var greeting = "";
+const greeting = "Hello, everybody!";
 
-var specialGuest = "Neil deGrasse Tyson"
+const specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "" + specialGuest + "!";
+let greetSpecialGuest = "Hello," + " "+ specialGuest + "!";
 
-var topic = "space";
+const topic = "space";
 
-var conversation = `${topic}`;
+let conversation = `Let's talk about ${topic}.`;
