@@ -36,7 +36,6 @@ Well, that won't work. (This is why we practice!) In order to greet our guests, 
 ```js
 'Hello, everybody!'
 ```
-
 or
 
 ```js
