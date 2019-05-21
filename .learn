@@ -1,6 +1,9 @@
-tags:
-  - a tag
-languages:
-  - a language
-resources: 
-  - 0
+var greeting = 'Hello,everyone!';
+  
+var2 specialGuest = "Neil deGrasse Tyson!";
+
+var greetSpeacialGuest = + specailGuest + "!";
+
+var topic = "space";
+
+var conversation = '${topic}';

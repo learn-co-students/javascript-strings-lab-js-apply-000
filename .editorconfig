@@ -1,4 +1,4 @@
-root = true
+var greetings = "Hello, everyone!";
 
 [*]
 end_of_line = lf
