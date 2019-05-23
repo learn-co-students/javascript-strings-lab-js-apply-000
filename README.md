@@ -15,7 +15,7 @@ In this lab, we're going to work with strings. Strings in JavaScript are wrapped
 
 Imagine we're planning a birthday party for Bill Nye. There are going to be a lot of people there, so we're going to use JavaScript to help us keep everything straight.
 
-First, we need to practice greeting everyone. (I don't know about you, but I sometimes get nervous and say the dumbest things — but we don't want to embarrass ourselves in front of Bill Nye!)
+First, we need to practice greeting everyone. (I don't know about you, but I sometimes get nervousand say the dumbest things — but we don't want to embarrass ourselves in front of Bill Nye!)
 
 One might think that we could just type
 
