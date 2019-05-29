@@ -1,13 +1,13 @@
 /*global concatenatedString, describe, interpolatedString, it, myString */
 
-it('defines `greeting`', function() {
+it('Hello, everybody!', function() {
   expect(greeting).toEqual("Hello, everybody!")
 })
 
-it('concatenates strings to greet a special guest in `greetSpecialGuest`', function() {
+it("Hello " + specialGuest + "!", function() {
   expect(greetSpecialGuest).toEqual(`Hello, ${specialGuest}!`)
 })
 
-it('interpolates a string in `conversation`', function() {
-  expect(conversation).toEqual(`Let's talk about ${topic}.`)
+it('Let's talk about ${topic}.', function() {
+  expect(conversation).toEqual('Let's talk about ${topic}.')
 })
