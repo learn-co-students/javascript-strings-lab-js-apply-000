@@ -1,17 +1,12 @@
-var a="Hello"
-var comma=","
-var ex="!"
-var who="everybody"
-var topic = "space";
-var sp=" "
-var fs="."
+const a="Hello",
+      comma=",",
+      ex="!",
+      who="everybody",
+      topic = "space",
+      sp=" ",
+      fs=".";
 
-var greeting = a+comma+sp+who+ex;
-
-var specialGuest = "Neil deGrasse Tyson"
-
-var greetSpecialGuest = a+comma+sp + specialGuest + "!";
-
-
-
-var conversation = "Let's talk about"+sp+`${topic}`+fs;
+var greeting = a+comma+sp+who+ex,
+    specialGuest = "Neil deGrasse Tyson",
+    greetSpecialGuest = a+comma+sp + specialGuest + "!",
+    conversation = "Let's talk about"+sp+`${topic}`+fs;
