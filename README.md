@@ -31,7 +31,8 @@ You should see something like
 Uncaught ReferenceError: Hello is not defined(…)
 ```
 
-Well, that won't work. (This is why we practice!) In order to greet our guests, we need to tell JavaScript that we're using a **string**. A string is a collection of characters (letters, numbers, and symbols) wrapped in single or double quotes (or, as we'll see, in back ticks). So to greet everyone, we can write,
+Well, that won't work. (This is why we practice!) In order to greet our guests, we need to tell JavaScript that we're using a **string**. A string is a collection of characters (letters, 
+numbers, and symbols) wrapped in single or double quotes (or, as we'll see, in back ticks). So to greet everyone, we can write,
 
 ```js
 'Hello, everybody!'
