@@ -1,5 +1,5 @@
-# JavaScript Strings Lab
-
+var specialGuest= "Neil deGrasse Tyson"
+"Hello," + specialGuest + "!" // "Hello, Neil deGrasse Tyson!"
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
 
 ## Overview 
