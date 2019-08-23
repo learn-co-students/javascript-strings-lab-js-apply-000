@@ -1,4 +1,4 @@
-# JavaScript Strings Lab
+I think I got it. # JavaScript Strings Lab
 
 ![lab](http://i.giphy.com/NETCsDYm0fL44.gif)
 
