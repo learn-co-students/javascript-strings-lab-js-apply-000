@@ -25,6 +25,8 @@ Hello, everybody!
 
 in our browser's console and be done with it. Give it a try. (If you're on a Mac, that would be `Command` + `Option` + `J` together.)
 
+
+
 You should see something like
 
 ```
