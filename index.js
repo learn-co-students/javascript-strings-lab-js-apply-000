@@ -6,5 +6,5 @@ var specialGuest = "Neil deGrasse Tyson";
 var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = "space";
-//interpolated to match expected value, buy inserting variable into my string. Cleaner approach than lengthy concatanations when reading code. Backticks don't require me to escape "'".
+//interpolated to match expected value, by inserting variable into my string. Cleaner approach than lengthy concatanations when reading code. Backticks don't require me to escape "'".
 var conversation = `Let's talk about ${topic}.`;
