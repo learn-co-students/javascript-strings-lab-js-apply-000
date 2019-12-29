@@ -47,9 +47,7 @@ Single or double quotation marks can contain a string variable..
 
 What if we want to say hi to a special guest, like Neil deGrasse Tyson? When we wrap strings in single or double quotes, we can join them together using the `+` operator:
 
-```js
-var specialGuest = "Neil deGrasse Tyson"
-"Hello, " + specialGuest + "!" // "Hello, Neil deGrasse Tyson!"
+```js"Hello, Neil deGrasse Tyson!"
 ```
 
 This is called _concatenation_. Notice that the value of the `specialGuest` variable is _also_ a string!
