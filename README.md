@@ -1,7 +1,7 @@
 # JavaScript Strings Lab
 
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
-
+hello everybody
 ## Overview 
 
 In this lab, we're going to work with strings. Strings in JavaScript are wrapped in single or double quotes, or in back ticks.
@@ -17,12 +17,12 @@ Imagine we're planning a birthday party for Bill Nye. There are going to be a lo
 
 First, we need to practice greeting everyone. (I don't know about you, but I sometimes get nervous and say the dumbest things — but we don't want to embarrass ourselves in front of Bill Nye!)
 
-One might think that we could just type
+One might think that we could just type
 
 ```js
 Hello, everybody!
 ```
-
+hello, everybody!
 in our browser's console and be done with it. Give it a try. (If you're on a Mac, that would be `Command` + `Option` + `J` together.)
 
 You should see something like
