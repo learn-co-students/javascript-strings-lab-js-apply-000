@@ -31,21 +31,17 @@ You should see something like
 Uncaught ReferenceError: Hello is not defined(…)
 ```
 
-Well, that won't work. (This is why we practice!) In order to greet our guests, we need to tell JavaScript that we're using a **string**. A string is a collection of characters (letters, numbers, and symbols) wrapped in single or double quotes (or, as we'll see, in back ticks). So to greet everyone, we can write,
+Well, that won't work. (This is why we practice!) In order to greet our guests, we need to tell JavaScript that we're using a **string**. A string is a collection of characters (letters, numbers, and symbols) wrapped in single or double quotes (or, as we'll see, in _interpolation_.
 
-```js
-'Hello, everybody!'
-```
+## Lab
 
-or
+You'll find a file called `index.js` in this directory. Your mission, should you choose to accept it, is to get its tests (in `tests/index-test.js`) to pass.
 
-```js
-"Hello, everybody!"
-```
+You can run the tests using the `learn` command in your terminal or the Learn IDE. Give that a go now.
 
-Single or double quotation marks can contain a string variable..
+![waiting](https://i.giphy.com/9c830567WqLCw.gif)
 
-What if we want to say hi to a special guest, like Neil deGrasse Tyson? When we wrap strings in single or double quotes, we can join them together using the `+` operator:
+All three tests have failed! This is okay, and it's expected — you haven't written awe wrap strings in single or double quotes, we can join them together using the `+` operator:
 
 ```js
 var specialGuest = "Neil deGrasse Tyson"
@@ -60,25 +56,29 @@ This is called _concatenation_. Notice that the value of the `specialGuest` vari
 
 Alternatively, you can press `ctrl + L` or `command + K`. As long as you don't refresh the page, anything you've declared will stick around for you to reference — you'll just get a nice blank slate on which to code.
 
-When we wrap strings in back ticks, we can use placeholders (`${}`) and insert variables or evaluated JavaScript directly:
+When we wrap  back ticks). So to greet everyone, we can write,
+
+```js
+'Hello, everybody!'
+```
+
+or
+
+```js
+"Hello, everybody!"
+```
+
+Single or double quotation marks can contain a string variable..
+
+What if we want to say hi to a special guest, like Neil deGrasse Tyson? When ecialGuest}! High ${3 + 2}!` // "Hello, Neil deGrasse Tyson! High 5!"
+```
+
+This is calledstrings in back ticks, we can use placeholders (`${}`) and insert variables or evaluated JavaScript directly:
 
 ```js
 var specialGuest = "Neil deGrasse Tyson";
 
-`Hello, ${specialGuest}! High ${3 + 2}!` // "Hello, Neil deGrasse Tyson! High 5!"
-```
-
-This is called _interpolation_.
-
-## Lab
-
-You'll find a file called `index.js` in this directory. Your mission, should you choose to accept it, is to get its tests (in `tests/index-test.js`) to pass.
-
-You can run the tests using the `learn` command in your terminal or the Learn IDE. Give that a go now.
-
-![waiting](https://i.giphy.com/9c830567WqLCw.gif)
-
-All three tests have failed! This is okay, and it's expected — you haven't written any code yet, after all.
+`Hello, ${spny code yet, after all.
 
 In `index.js`, you'll see five lines of code:
 
