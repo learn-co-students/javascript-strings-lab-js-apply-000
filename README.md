@@ -1,4 +1,4 @@
-# JavaScript Strings Lab
+n # JavaScript Strings Lab
 
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
 
@@ -10,6 +10,8 @@ In this lab, we're going to work with strings. Strings in JavaScript are wrapped
 
 1. Manipulate strings in JavaScript
 2. Practice interpolating with template literals
+README.md
+Full Screen
 
 ## Introduction
 
