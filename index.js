@@ -1,9 +1,14 @@
-var greeting = "";
+$ learn [command] [options]
 
-var specialGuest = "Neil deGrasse Tyson"
+var greeting = " Helo, everybody!";
 
-var greetSpecialGuest = "" + specialGuest + "!";
+var specialGuest = "Neil deGrasse Tyson";
+
+var greetSpecialGuest = "Hello" + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `${topic}`;
+var conversation = "${topic}";
+
+
+
