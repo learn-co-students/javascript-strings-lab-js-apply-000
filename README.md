@@ -20,7 +20,7 @@ First, we need to practice greeting everyone. (I don't know about you, but I som
 One might think that we could just type
 
 ```js
-Hello, everybody!
+Hello, everybody!;
 ```
 
 in our browser's console and be done with it. Give it a try. (If you're on a Mac, that would be `Command` + `Option` + `J` together.)
@@ -153,3 +153,5 @@ When your tests are passing, submit your answer by typing in `learn submit` in t
 Good luck!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-strings-lab'>JavaScript Strings Lab</a> on Learn.co and start learning to code for free.</p>
+var greeting = 'Hello, everybody!';
+console.log(greeting)
