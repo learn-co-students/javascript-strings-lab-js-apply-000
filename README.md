@@ -52,6 +52,9 @@ var specialGuest = "Neil deGrasse Tyson"
 "Hello, " + specialGuest + "!" // "Hello, Neil deGrasse Tyson!"
 ```
 
+var specialGuest = "Neil deGrasse Tyson"
+"Hello" 
+
 This is called _concatenation_. Notice that the value of the `specialGuest` variable is _also_ a string!
 
 **TOP TIP**: Your console might be getting a little full at this point. If at any point you'd like to clear it out and start fresh, you can either click the button in the top left corner of the console — in Chrome, it looks like this:
