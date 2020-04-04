@@ -3,7 +3,7 @@
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
 
 ## Overview 
-
+https://www.learn.co/tracks/technical-application-javascript/introduction/welcome/strings-lab#
 In this lab, we're going to work with strings. Strings in JavaScript are wrapped in single or double quotes, or in back ticks.
 
 ## Objectives
@@ -83,11 +83,12 @@ All three tests have failed! This is okay, and it's expected — you haven't wri
 In `index.js`, you'll see five lines of code:
 
 ```js
-var greeting = "";
+var greeting = "Hello everybody!";
+"
 
 var specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "" + specialGuest + "!";
+var greetSpecialGuest = "Hello," + specialGuest + "!";
 
 var topic = "space";
 
@@ -137,6 +138,10 @@ What if, instead of assigning `""` to `greeting`, we assign `"Hello, everybody!"
 ```js
 var greeting = "Hello, everybody!";
 ```
+
+
+
+
 
 save the file, and rerun your tests. You should see
 
