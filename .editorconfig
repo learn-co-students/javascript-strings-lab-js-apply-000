@@ -1,4 +1,4 @@
-root = true
+vroot = true
 
 [*]
 end_of_line = lf
