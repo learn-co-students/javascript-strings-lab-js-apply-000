@@ -140,7 +140,7 @@ var greeting = "Hello, everybody!";
 
 save the file, and rerun your tests. You should see
 
-![First test passes!](https://user-images.githubusercontent.com/17556281/27979674-b65255f6-6345-11e7-8fca-d71760c514ef.png)
+![First test passes!](://user-images.githubusercontent.com/17556281/27979674-b65255f6-6345-11e7-8fca-d71760c514ef.pnhttpsg)
 
 Nice! You got the first test to pass.
 
