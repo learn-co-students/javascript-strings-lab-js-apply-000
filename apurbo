@@ -1,0 +1,2 @@
+var specialGuest = "Neil deGreasse Tyson"
+"Hello, " + specialGuest + "!" // "Hello, neli deGreasse Tyson!"
